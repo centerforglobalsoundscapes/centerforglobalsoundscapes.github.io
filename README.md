@@ -1,4 +1,8 @@
-# Get started building your personal website
+
+The following is detailed walkthrough to setup a github.io page.
+
+For Center for Globalsoundscapes Github info visit this projects wiki [https://github.com/centerforglobalsoundscapes/centerforglobalsoundscapes.github.io/wiki](centerforglobalsoundscapes.github.io/wiki)
+
 
 ### Showcase your software development skills
 
