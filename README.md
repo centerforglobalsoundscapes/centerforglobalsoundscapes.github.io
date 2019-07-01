@@ -1,7 +1,12 @@
 
-The following is detailed walkthrough to setup a github.io page.
+ ## Visit the wiki for CGS related info
+
+**The following is a detailed walkthrough related to the setup of github.io pages.**
 
 For Center for Globalsoundscapes Github info visit this projects wiki [https://github.com/centerforglobalsoundscapes/centerforglobalsoundscapes.github.io/wiki](centerforglobalsoundscapes.github.io/wiki)
+
+
+---
 
 
 ### Showcase your software development skills
