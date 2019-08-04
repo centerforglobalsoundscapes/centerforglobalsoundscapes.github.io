@@ -36,9 +36,9 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: Open-Source
-    web_url: https://github.com/topics/open-source
+# topics:
+#   - name: Open-Source
+#     web_url: https://github.com/topics/open-source
 
-  - name: Citizen-Science
-    web_url: https://github.com/topics/citizen-science
+#   - name: Citizen-Science
+#     web_url: https://github.com/topics/citizen-science
